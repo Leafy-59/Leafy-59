@@ -1,14 +1,11 @@
 Hi, I’m @Leafy-59.
-I am currently working on a android app and a website.
+I am currently working on an android app.
 
 I work on  :
 - Python
 - Kotlin
-- JavaScript
-- HTML
-- CSS
 
-Contact me on : aika.ono59@gmail.com 
+Feel free to contact me on: aika.ono59@gmail.com 
 
 <!---
 Leafy-59/Leafy-59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
