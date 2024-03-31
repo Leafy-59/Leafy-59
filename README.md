@@ -1,9 +1,10 @@
 Hi, I’m @Leafy-59.
-I am currently working on an android app.
 
-I work on  :
-- Python
-- Kotlin
+Profile: first-year medical student. age 18. 
+
+My current projects:
+- Android app development in Kotlin.
+- Research at University using Python and MATLAB.
 
 Feel free to contact me on: aika.ono59@gmail.com 
 
