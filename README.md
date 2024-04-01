@@ -1,6 +1,6 @@
-Hi, I’m @Leafy-59.
+Hi, I’m @Leafy
 
-Profile: first-year medical student. age 18. 
+
 
 <!---
 Leafy-59/Leafy-59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
