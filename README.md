@@ -10,6 +10,13 @@ I have interests in systems biology, modelling, radiology,  genetics and AI.
 
 > Nothing in life is to be feared, it is only to be understood.
 
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python |
+|     2| Kotlin |
+|     3| MATLAB |
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://aipict.com/wp-content/uploads/2022/09/Steampunk_room09-1024x576.png">
  <source media="(prefers-color-scheme: light)" srcset="https://aipict.com/wp-content/uploads/2022/09/Steampunk_room09-1024x576.png">
