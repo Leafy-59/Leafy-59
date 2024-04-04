@@ -1,10 +1,10 @@
-# About me 
+# About me
 
 Hi, I’m @Leafy
 
-I'm a UK medical student. 
+I'm a UK medical student.
 
-I have interests in systems biology, modelling, radiology,  genetics and AI. 
+I have interests in systems biology, modelling, radiology, genetics and AI.
 
 <br>
 
@@ -12,7 +12,7 @@ I have interests in systems biology, modelling, radiology,  genetics and AI.
 
 <br>
 
-| Rank | Languages |
+| Rank | Language |
 |-----:|-----------|
 |     1| Python |
 |     2| Kotlin |
