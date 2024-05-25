@@ -8,7 +8,7 @@ I have interests in systems biology, modelling, radiology, genetics and AI.
 
 <br>
 
-> Nothing in life is to be feared, it is only to be understood.
+> 
 
 <br>
 
