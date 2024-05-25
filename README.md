@@ -21,7 +21,7 @@ I have interests in systems biology, modelling, radiology, genetics and AI.
 <br>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://aipict.com/wp-content/uploads/2022/09/Steampunk_room09-1024x576.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://e0.pxfuel.com/wallpapers/483/726/desktop-wallpaper-anime-aesthetic-night-aesthetic-anime.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://aipict.com/wp-content/uploads/2022/09/Steampunk_room09-1024x576.png">
  <img alt="YOUR-ALT-TEXT" src="https://aipict.com/wp-content/uploads/2022/09/Steampunk_room09-1024x576.png">
 </picture>
