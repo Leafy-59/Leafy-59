@@ -2,9 +2,8 @@
 
 Hi, I’m @Leafy
 
-I'm a UK medical student.
-
-I have interests in radiology, modelling and AI.
+-> UK medical student.
+-> Interests in radiology, modelling and AI.
 
 <br>
 
