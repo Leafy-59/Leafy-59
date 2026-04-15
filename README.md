@@ -4,7 +4,7 @@ Hi, I’m @Leafy
 
 -> Aspiring Design Engineer
 
--> UK medical student.
+-> UK medical student
 
 <br>
 
