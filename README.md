@@ -2,9 +2,9 @@
 
 Hi, I’m @Leafy
 
--> UK medical student.
+-> Aspiring Design Engineer
 
--> Interests in radiology, modelling and AI.
+-> UK medical student.
 
 <br>
 
