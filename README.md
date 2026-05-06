@@ -1,7 +1,5 @@
 # About me
 
-Hi, I’m @Leafy
-
 -> Aspiring Design Engineer
 
 -> UK medical student
